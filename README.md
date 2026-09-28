@@ -127,8 +127,3 @@ Through this project, I worked with an end-to-end analytics workflow and gained 
 
 ```bash
 git clone https://github.com/Veluri-Sathwika/customer-shopping-behavior-analysis.git
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
